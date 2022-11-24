@@ -17,6 +17,8 @@ Provided in the form of a jupyter-notebook with the associated data included in 
 1) Constructing templates for each component of the Galactic center responsible for the emission of gamma rays.
 2) Convolution with Cherenkov Telescope Array (CTA) instrumental properties for the creation of synthetic Dark matter data.
 3) Custom chi-squared minimization code used for reconstructing the dark matter particle properties associated with gamma-ray emission.
+
+
 The code written in python can be found under the files functions.py and groupX_functions.py,
 with the associated descriptions therein.
 The data used can be found under the folders dataA,B,C,X  with readme files providing descriptions on their meaning.
