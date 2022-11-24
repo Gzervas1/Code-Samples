@@ -27,5 +27,5 @@ The data used can be found under the folders dataA,B,C,X  with readme files prov
 Finally, under the folders figsA,B,C,X, there are sample figures produced using the code.
 
 
-For the code to run succesfully, the installation of the python modules HDMSpectra (https://github.com/nickrodd/HDMSpectra) 
-and iminuit (https://iminuit.readthedocs.io/en/stable/) are required.
+For the code to run succesfully, the installation of the python module HDMSpectra (https://github.com/nickrodd/HDMSpectra) 
+and iminuit package (https://iminuit.readthedocs.io/en/stable/) are required.
