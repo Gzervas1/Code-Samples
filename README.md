@@ -1,5 +1,5 @@
 # Code-Samples
-This repository contains coding samples from a variety of projects throughout my MSc studies at the univeristy of Amsterdam.
+This repository contains coding samples from a variety of projects throughout my MSc studies at the Univeristy of Amsterdam.
 
 ## Scipy Model Fitting
 Fitting models on synthetic dark matter detection data, first for instrumental calibration purposes and then for parameter constraints.
