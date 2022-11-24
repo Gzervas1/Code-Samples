@@ -23,4 +23,5 @@ The code written in python can be found under the files functions.py and groupX_
 with the associated descriptions therein.
 
 The data used can be found under the folders dataA,B,C,X  with readme files providing descriptions on their meaning.
+
 Finally, under the folders figsA,B,C,X, there are sample figures produced using the code.
