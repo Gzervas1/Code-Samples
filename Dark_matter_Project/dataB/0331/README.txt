@@ -25,7 +25,8 @@ total_gce.npy
 -----
 Two background components: inverse-Compton scattering (ics) and gas-correlated emission (gce). Units are [1/TeV/cm^2/s/sr]. 
 Files contain a three-dimiensional array of the size of (47,20,20). First axis of 47 components corresponds to different energy bins (as in energies_0331.txt), 
-and the second and third axes correspond to Galactic longitude l and latitude b. Both l and b goes between -5 to 5 degrees around the Galactic center (l,b)=(0,0). Pixel size is therefore 0.5x0.5 deg^2.
+and the second and third axes correspond to Galactic longitude l and latitude b. 
+Both l and b goes between -5 to 5 degrees around the Galactic center (l,b)=(0,0). Pixel size is therefore 0.5x0.5 deg^2.
 
 
 
