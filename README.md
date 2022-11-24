@@ -7,9 +7,9 @@ Calculation of maximum likelihood estimates and resulting errors using different
 Self-contained in a jupyter-notebook along with explanations taken at each step. Data are provided in the file.
 
 ## Scipy Statistical Tests
-Data filtering and correlation checking using pearson's r for a sample of galaxies, based on their physical properties. 
+Data filtering and correlation checking using pearson's-r for a sample of galaxies, based on their physical properties. 
 Linear regression to quantify correlations, student's t-tests for checking statistical integrity.
 Bootsrapping for reconstructing the distributions of parameters of interest for further statistical tests.
-Provided in the for of a jupyter-notebook with the associated data included in the file.
+Provided in the form of a jupyter-notebook with the associated data included in the file.
 
 ## Dark Matter Project
