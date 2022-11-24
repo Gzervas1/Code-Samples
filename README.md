@@ -13,3 +13,7 @@ Bootsrapping for reconstructing the distributions of parameters of interest for 
 Provided in the form of a jupyter-notebook with the associated data included in the file.
 
 ## Dark Matter Project
+2-month long collaborative coding project focused on:
+1) Constructing templates for the components of the Galactic center responsible for the emission of gamma rays.
+2) Convolution with Cherenkov Telescope Array (CTA) instrumental properties for producing synthetic Dark matter data.
+3) Custom chi-squared minimization code used for reconstructing the dark matter particle properties associated with gamma-ray emission.
