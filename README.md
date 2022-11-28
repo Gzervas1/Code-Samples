@@ -24,9 +24,9 @@ The project is focused on three main areas:
 The code written in python can be found in the files functions.py and groupX_functions.py,
 with the associated descriptions therein.
 
-The data used can be found under the folders dataA,B,C,X  with readme files providing descriptions of their meaning.
+The data used can be found under the folders dataA/B/C/X  with readme files providing descriptions of their meaning.
 
-Finally, under the folders figsA,B,C,X, there are sample figures produced using the code.
+Finally, under the folders figsA/B/C/X, there are sample figures produced using the code.
 
 
 For the code to run successfully, the installation of the python module HDMSpectra (https://github.com/nickrodd/HDMSpectra) 
